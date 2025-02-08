@@ -1,16 +1,28 @@
-## Hi there 👋
+## [Hello there](https://www.youtube.com/watch?v=rEq1Z0bjdwc) 🥷🏾
 
-<!--
-**rolandsaav/rolandsaav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💬 Ask me about
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Docker
+- Deep Research
+- Algorithmic Trading
+- Operating System Design
+- C++ Language Features
+- Game Design
+
+📅 Hobbies
+
+- Reading
+- Video games (Call of Duty, Smash Bros)
+- Violin
+- Gym
+
+💻 Current projects
+
+- Merit Match (Stealth mode)
+
+📚 Learning
+
+- Probability Theory
+- Cloud Infrastructure
+- C++ (always something to learn)
